@@ -12,12 +12,12 @@
 
 ## 后端
 
--  laravel
--  Node
+-  laravel       开发网站，REST Api，集成用户身份认证
+-  Node          开发 REST Api，websockets 服务器端，高并发连接数
 
 
 
 ## devtools
 
--  vagrant
--  sublime
+-  vagrant      操作系统虚拟化，轻松映射本地文件夹到服务器，端口映射，打包后分享，一致性开发环境部署
+-  sublime      codesnippet 提示，自动完成，语法检查插件
