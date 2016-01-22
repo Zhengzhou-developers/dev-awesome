@@ -5,10 +5,19 @@
 
 -  vue.js
 -  angular.js
+-  ionic
 -  gulp
 -  webpack
--  Node
+
 
 ## 后端
 
 -  laravel
+-  Node
+
+
+
+## devtools
+
+-  vagrant
+-  sublime
